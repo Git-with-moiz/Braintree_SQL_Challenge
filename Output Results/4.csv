@@ -1,0 +1,2 @@
+COUNT(*),SUM(gdp_per_capita)
+63,908109.0206315002

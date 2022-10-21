@@ -1,0 +1,10 @@
+"coalesce(country_code,'FOO')"
+FOO
+ARM
+AZE
+CYP
+GEO
+KAZ
+RUS
+TUR
+UMI
